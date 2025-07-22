@@ -5,21 +5,3 @@
 This workshop demonstrates how to test Redis Enterprise's LRU (Least Recently Used) eviction policy using a Java app and observe eviction behavior when the database reaches memory limits.
 
 ---
-
-## 📚 Prerequisites
-
-Ensure you have the following set up:
-
-- Redis Enterprise (Cloud or on-prem)
-- Java 8 or higher
-- Maven
-- Git installed
-- IDE like IntelliJ or VS Code
-
----
-
-## 📁 Clone the GitHub Repository
-
-```bash
-git clone https://github.com/harshp124/redis-demo.git
-cd redis-demo
