@@ -1,6 +1,6 @@
-# 🧪 Redis LRU Eviction Workshop with Java App
+#Redis LRU Eviction Workshop with Java App
 
-## 🎯 Objective
+##  Objective
 
 This workshop demonstrates how to test Redis Enterprise's LRU (Least Recently Used) eviction policy using a Java app and observe eviction behavior when the database reaches memory limits.
 
