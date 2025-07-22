@@ -23,28 +23,3 @@ Ensure you have the following set up:
 ```bash
 git clone https://github.com/harshp124/redis-demo.git
 cd redis-demo
-
-⚙️ Redis Enterprise Setup
-Follow these steps to create a Redis database:
-
-Log in to Redis Enterprise Web Console
-
-Create a new database with:
-
-Name: lru-demo
-
-Memory Size: 100MB (or lower for testing)
-
-Eviction Policy: volatile-lru
-
-Replication: disabled (for simplicity)
-
-Flash: optional, enable if testing Redis on Flash
-
-Save and note:
-
-Hostname
-
-Port
-
-Password
