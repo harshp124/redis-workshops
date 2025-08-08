@@ -1,2 +1,2 @@
 # redis-workshops
-Hands on Redis Workshops
+1 - Getting Started with Redis Cloud and Redis Insight
